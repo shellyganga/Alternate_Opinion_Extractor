@@ -5,6 +5,7 @@ The short term goal of this project is to learn more about Natural Language Proc
 - https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-30421/thesis_pdfaa-1b_dms.pdf
 - https://www.aclweb.org/anthology/P11-1035.pdf
 - http://web.stanford.edu/~jurafsky/SS404BethardS.pdf
+- https://monkeylearn.com/topic-analysis/
 - More to come!
 
 The long term goal of this project would be to create a system that could recomend (safe) news articles to users that have alternating opinions regarding a specfic topic a user wants to learn more about. As of now, the focus of this project will be political news articles. 
